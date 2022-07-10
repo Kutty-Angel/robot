@@ -57,7 +57,7 @@ async def others(_, query: CallbackQuery):
                     InlineKeyboardButton(
                         "🗯️ ʜᴇʀᴏᴋᴜ", url=f"https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.heroku.com/&ved=2ahUKEwj05-Kp0rL4AhVFT2wGHXu5BRYQFnoECAwQAQ&usg=AOvVaw1V4lhSv6mb_lZj6UUCUXpS"),
                     InlineKeyboardButton(
-                        "🌐 ɢɪᴛʜᴜʙ", url=f"https://github.com/UnknownMortal/Music-Bot-v2")
+                        "🌐 ɢɪᴛʜᴜʙ", url=f"https://t.me/DuskyBotZUpdates")
                 ],
                 [
                     InlineKeyboardButton(
@@ -109,7 +109,7 @@ async def repoinfo(_, query: CallbackQuery):
 
 ғᴏɴᴛ ᴜsᴇᴅ : sᴍᴀʟʟ ᴄᴀᴘs
 
-🔗 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : https://github.com/UnknownMortal/Music-Bot-v2""",
+🔗 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : https://t.me/KuttyAngelXUpdates""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
