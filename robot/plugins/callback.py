@@ -55,15 +55,15 @@ async def others(_, query: CallbackQuery):
             [
                 [
                     InlineKeyboardButton(
-                        "🗯️ ʜᴇʀᴏᴋᴜ", url=f"https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.heroku.com/&ved=2ahUKEwj05-Kp0rL4AhVFT2wGHXu5BRYQFnoECAwQAQ&usg=AOvVaw1V4lhSv6mb_lZj6UUCUXpS"),
+                        "🗯️ ʜᴇʀᴏᴋᴜ", url=f"https://t.me/DuskyBotZUpdates"),
                     InlineKeyboardButton(
                         "🌐 ɢɪᴛʜᴜʙ", url=f"https://t.me/DuskyBotZUpdates")
                 ],
                 [
                     InlineKeyboardButton(
-                        "🍭 ᴄʀᴇᴅɪᴛs", callback_data="credit"),
+                        "🍭 ᴄʀᴇᴅɪᴛs", url=f"https://t.me/DuskyBotZUpdates"),
                     InlineKeyboardButton(
-                        "🍀 ʀᴇᴘᴏ ɪɴғᴏ", callback_data="repoinfo")
+                        "🍀 ʀᴇᴘᴏ ɪɴғᴏ", url=f"https://t.me/DuskyBotZUpdates")
                 ],
                 [
                     InlineKeyboardButton("⬅️ ʙᴀᴄᴋ", callback_data="home")
