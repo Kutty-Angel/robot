@@ -78,10 +78,10 @@ async def credit(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""ᴄʀᴇᴅɪᴛs ғᴏʀ ᴛʜɪs ʙᴏᴛ 🍀
 
-• @Its_romeoo 
+• @DuskyBotZSupport
 - ʀᴇᴘᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀ !! 
 
-• @Cool_Mortal
+• @DuskyBotZUpdates
 - sᴜᴘᴘᴏʀᴛ & ᴜᴘᴅᴀᴛᴇs ᴍᴀɪɴᴛᴀɪɴᴇʀ
 
 • @{OWNER_USERNAME}
