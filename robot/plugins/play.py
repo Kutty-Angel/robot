@@ -317,10 +317,10 @@ async def play(_, message: Message):
     [
         
        [
-            InlineKeyboardButton("🎥 ᴡᴀᴛᴄʜ", url="https://youtube.com"),
-            InlineKeyboardButton("📨 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT}"),
+            InlineKeyboardButton("🌏 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/DuskyBotZUpdates"),
+            InlineKeyboardButton("🫂 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT}"),
         ],[
-            InlineKeyboardButton("🚫 ᴄʟᴏsᴇ", callback_data="cls"),
+            InlineKeyboardButton("ᴄʟᴏsᴇ", callback_data="cls"),
         ],
         
     ]
@@ -358,10 +358,10 @@ async def play(_, message: Message):
     [
         
        [
-            InlineKeyboardButton("🎥 ᴡᴀᴛᴄʜ", url="https://youtube.com"),
-            InlineKeyboardButton("📨 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT}"),
+            InlineKeyboardButton("🌏 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/DuskyBotZUpdates"),
+            InlineKeyboardButton("🫂 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT}"),
         ],[
-            InlineKeyboardButton("🚫 ᴄʟᴏsᴇ", callback_data="cls"),
+            InlineKeyboardButton("ᴄʟᴏsᴇ", callback_data="cls"),
         ],
         
     ]
@@ -490,10 +490,10 @@ async def play(_, message: Message):
     [
         
        [
-            InlineKeyboardButton("🎥 ᴡᴀᴛᴄʜ", url="https://youtube.com"),
-            InlineKeyboardButton("📨 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT}"),
+            InlineKeyboardButton("🌏 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/DuskyBotZUpdates"),
+            InlineKeyboardButton("🫂 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT}"),
         ],[
-            InlineKeyboardButton("🚫 ᴄʟᴏsᴇ", callback_data="cls"),
+            InlineKeyboardButton("ᴄʟᴏsᴇ", callback_data="cls"),
         ],
         
     ]
@@ -579,7 +579,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**[ᴘʟᴀʏɪɴɢ ᴍᴜsɪᴄ ᴠɪᴀ ʏᴏᴜᴛᴜʙᴇ 📡]({})**\n\n• ᴜsᴇʀ : {}\n• ɢʀᴏᴜᴘ : [{}](https://t.me/M8N_OFFICIAL)".format(
+            caption="**[ᴘʟᴀʏɪɴɢ ᴍᴜsɪᴄ ᴠɪᴀ ʏᴏᴜᴛᴜʙᴇ 📡]({})**\n\n• ᴜsᴇʀ : {}\n• ɢʀᴏᴜᴘ : [{}](https://t.me/DuskyBotZUpdates)".format(
                 url, message.from_user.mention(), message.chat.title
             ),
         )
@@ -605,7 +605,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**[ᴘʟᴀʏɪɴɢ ᴍᴜsɪᴄ ᴠɪᴀ ʏᴏᴜᴛᴜʙᴇ 📡]({})**\n\n• ᴜsᴇʀ : {}\n• ɢʀᴏᴜᴘ : [{}](https://t.me/M8N_OFFICIAL)".format(
+            caption="**[ᴘʟᴀʏɪɴɢ ᴍᴜsɪᴄ ᴠɪᴀ ʏᴏᴜᴛᴜʙᴇ 📡]({})**\n\n• ᴜsᴇʀ : {}\n• ɢʀᴏᴜᴘ : [{}](https://t.me/DuskyBotZUpdates)".format(
                 url, message.from_user.mention(), message.chat.title
             ),
         )
