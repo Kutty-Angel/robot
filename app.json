@@ -3,7 +3,7 @@
     "description": "Telegram Music Bot from Team M8N allows you to stream music trought the telegram voice chat feature !!",
    "logo": "https://telegra.ph/file/7c8fc17112d22814da2e9.jpg",
     "keywords": ["telegram music bot", "voice chat", "pytgcalls"],
-    "repository": "https://github.com/UnknownMortal/Music-Bot-v2",
+    "repository": "https://github.com/hyperman77/Music-Bot-v2",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -13,12 +13,12 @@
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": "5058236569"
+            "value": "5338869949"
         },
         "OWNER_USERNAME": {
             "description": "fill with the bot owner username without @",
             "required": true,
-            "value": "Its_romeoo"
+            "value": "ONLY_DUSKY"
         },
         "ASSID": {
             "description": "fill with telegram id of your assistant account",
@@ -53,12 +53,12 @@
         "SUPPORT": {
             "description": "fill with your bot support group, please fill valid username",
             "required": false,
-            "value": "M8N_SUPPORT"
+            "value": "DuskyBotZSupport"
         },
         "UPDATE": {
             "description": "fill with your bot update channel, please fill valid username",
             "required": false,
-            "value": "M8N_OFFICIAL"
+            "value": "DuskyBotZUpdates"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
